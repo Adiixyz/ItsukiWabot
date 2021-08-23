@@ -42,6 +42,7 @@ src="https://img.shields.io/badge/ITSUKIWABOT-green?colorA=%23ff0000&colorB=%230
 > git clone https://github.com/Adiixyz/ItsukiWabot
 > ls
 > cd ItsukiWabot
+> npm i
 ```
 
 # INSTALLATION ( WINDWOS, RDP, VPS )
@@ -59,6 +60,9 @@ Install these packages
 | ------------- | ------------- |
 | npm start |✅|
 | node adii.js |✅|
+
+# Features
+`banyak banget`
 
 # THANKS TO
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
