@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./pics/IMG-20210820-WA0170.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="./pics/20210816_233129.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Itsuki Wabot</h1>
 <h1 align="center">Official SC Used By My Bot</h1>
