@@ -1,3 +1,5 @@
+### Read this...
+[Read this](https://github.com/Adiixyz/ItsukiWabot/issues/1)
 <p align="center">
 	<img src="./pics/20210816_233129.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
@@ -22,7 +24,7 @@ Type this on console
 
 > npm install
 ```
-Then click run
+> Then click run
 
 ### hm
 <p align="center">
