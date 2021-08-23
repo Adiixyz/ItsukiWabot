@@ -1,0 +1,2 @@
+# ItsukiWabot
+Krik Krik
